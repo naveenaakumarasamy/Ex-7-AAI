@@ -1,4 +1,4 @@
-                                                                     # EX-07 Implementation of Text Summarization
+# EX-07 Implementation of Text Summarization
 ### DEVELOPED BY :Naveenaa A K
 ### REGISTER NUMBER:212222230094
 ### Aim: 
