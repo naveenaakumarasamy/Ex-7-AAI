@@ -4,12 +4,6 @@
 ### Aim: 
 To perform automatic text summarization using Natural Language Processing &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE :14-10-2024**<br>
 (NLP) techniques.
-### Description:
-<p align="justify">
-Text summarization is the process of condensing a large body of text into a shorter version, retaining the key information and main ideas. It is a valuable tool in natural language processing (NLP) that helps users quickly grasp the core content of lengthy documents, articles, or reports. Summarization techniques range from simple frequency-based methods to advanced deep learning approaches, like transformer-based models. The main goal is to remove redundancy and retain relevant details, improving comprehension and saving time. Text summarization is widely applied in news aggregation, content curation, and academic research to deliver concise, meaningful summaries.
-</p>
-
-![image](https://github.com/user-attachments/assets/95dc556d-1fb2-4dd9-8d30-ac46bfcbe83e)
 
 ### Algorithm:
 Step 1 Import necessary libraries for natural language processing tasks.<BR>
